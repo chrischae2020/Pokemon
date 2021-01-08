@@ -1,6 +1,5 @@
 # Pokemon
-Pokemon text adventure game
-Made with Intellij (Java)
+Pokemon text adventure game made with Intellij (Java)
 > This game is meant for educational purposes only with no intent to distribute
 
 
