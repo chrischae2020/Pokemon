@@ -20,6 +20,7 @@ Release Notes
 * Pokemon can learn up to 3 moves
 * Pokemon can learn a random move when a certain level is hit (5, 10, 15, etc)
 * All pokemon who participated in battle can recieve EXP
+* Pokemon can have dual typing
 
 Fixed 
 * EXP gain when battling level 1 opponents
@@ -33,6 +34,7 @@ Known Bugs
 *Completed 1/3/2021*
 
 Release Notes
+* All Gen 1 pokemon (excluding legendaries)
 * Trainer can choose a starter (Charmander, Squirtle, Bulbasaur, Pikachu)
 * Can battle randomly spawned wild pokemon by walking
 * One pokemon per trainer 
